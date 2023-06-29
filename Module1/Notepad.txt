@@ -1,0 +1,389 @@
+Q-1 What is SDLC?  
+   -> SDLC is a structure imposed on the development of a software product that defines the process for planning,
+      implementation, testing,documentation,deployment,and ongoing maintenance and support.
+  
+Q-2 What is Software Testing?
+  -> Software Testing is a process used to identify the correctness,completeness,and quality of developed computer software
+  -> It can also be stated as the process of validating and verifying that a software program or application or product.
+ 
+Q-3 What is Agile Methodology?
+  -> Agile SDLC model is a combination of iterative and incremental process models with focus on process adaptability and customer
+      satisfaction by rapid delivery of working software product.
+  -> Agile methods break the product into small incremental builds.
+  
+Q-4 What is SRS?
+  -> A Software requirements specification is a complete description of the behavior of the system to developed.
+  -> It includes a set of use cases that describe all of the interactions that the users will have with the software.
+  -> Use cases are also known as functional requirements.
+    Types Of Requirements :
+    A. Customer requirements
+    B. Functioanl requirements
+    C. Non-Functional requirements
+
+Q-5 What is OOPS?
+  -> Identifying objects and assigning responsibilities to these objects.
+  -> If you can write demonstration, you can make a program.
+  -> so, programming is also easy.
+  -> But, actually, programming is not so easy, because a real good program is not easily programmers' lots of  knowledge about
+       programming and lots of experience.
+  
+Q-6 Write Basic Concept of OOPS?
+  -> An object based programming language is one which easily supports object-orientation.
+  -> Objects communicate to other objects by sending messages.
+  -> Messages are received by the methods of an object.
+  -> An object is like a black box.
+  -> The internal details are hidden.
+
+Q-7 What is Object?
+  -> An object represents an individual,identifiable item,unit, or entity,either real or abstract,with a well-defined role in the problem
+       domain.
+  -> An "object" is anything to which a concept applies.
+  -> That is both data and function that operate on data are bundled as a unit called as object.
+  
+Q-8 What is Class?
+  -> When you define a class, you define a blueprint for an object.
+  -> Class represents an abstraction of the object and abstracts the properties and behaviour of that object.
+  -> An object is a particular instance of a class which has actual existence and there can be many objects for class.
+ 
+Q-9 What is Encapsulation?
+  -> Encapsulation is the practice of including in an object everything it needs hidden from other objects.
+  -> The internal state is usually not accessible by other objects.
+  -> Encapsulation in java is the process of wrapping up of data and behaviour of an object into a single unit; and the unit here is a class.
+  -> We can expose our operations hiding the details of what is needed to perform that operation.
+
+Q-10 What is Inheritance?
+  -> Inheritance means that one class inherits the characteristics of another class.This is also called a "is a" relationship.
+  -> This is very important concept of object-oriented programming since this feature helps to reduce the code size.
+
+Q-11 What is Polymorphism?
+  -> Polymorphism means "having many forms".
+  -> Many ways to perform anything
+       ex: overloading, overriding
+
+Q-12 Write SDLC Phases with Basic Introduction
+  -> A Software development life cycle is essentially a series of steps, or phases, that provide a model for the development and lifecycle 
+       management of an application or piece of software.
+  SDLC Phases:
+ Requirement Gathering: Esatablish customer needs
+  Analysis                       : Model and specify the requirements- "what"
+  Design                          : Model and specify a solution - "why"
+  Implementation        : Construct a solution in software
+  Testing                         : Validate the solution against the requirements
+  Maintenance               : Repair defects and adapt the solution to the new requirements
+ 
+Q-13 Explain phases of the Waterfall Model
+  -> The classical software lifecycle models the software development as a step-by-step "waterfall" between the various development 
+       phases.
+  -> Requirements must be "frozen" to early in the life cycle.
+  -> Requirements are validated too late.
+PHASES:
+      1. Requirement
+      2. Analysis
+      3. Design
+      4. Implementation
+      5. Testing
+      6. Maintenance
+
+Q-14 Write Phases of Spiral Model
+    -> Spiral model is very widely used in the software industry as it is in synch with the natural development process of any product.
+    -> When costs there are a budget constraint and risk evalution is important.
+    -> For medium to high-risk projects.
+    -> Long-term commitment because of potential changes to economic prioriteis as the requirements change with time.
+    -> Requirements are complex and need evaluation to get clarity.
+
+Q-15 Write Agile Manifesto Principal
+   -> These builds are provided in iterations.
+   -> Each iteration typically lasts from about one to three weeks.
+   -> Every iteration involves cross functional teams working.
+   -> Simultaneously on various areas like planning, requirements analysis, design, coding, unit testing, and acceptance testing.
+   -> At the end of the iteration a working product is displayed to the customer and important stakeholders.
+
+Q-16 Explain Working Methodology of Agile Model and also Write Pros and Cons
+   -> Agile thought process had started early in the software development and started becoming popular with time due to its flexibility 
+        and adaptability.
+ * Pros:
+   -> Suitable for fixed or changing requirements.
+   -> Delivers early partial working solutions.
+   -> Good model for envirnoments that change steadily.
+   -> Minimul rules, documentation easily employed.
+   -> Little or no planning required
+   -> Easy to manage
+   -> Gives flexibility to developers.
+
+ *Cons:
+  -> Not suitable for handling complex dependencies.
+  -> More risk of sustainability, maintainability and extensibility.
+  -> An overall plan, an agile leader and agile pm practice is a must without which it will not work.
+  -> Strict delivery management dictates the scope, functionality to be delivered, and adjustments to meet the deadlines.
+  -> Depends heavily on customer interaction , so if customer is not clear, team can be driven in the wrong direction.
+  -> There is very high individual dependency, since there is minimum documentation generated.
+  -> Transfer of technology to new team members may be quite challenging due to lack of documentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+ 
+   
+
+
+
+
+
+
+
+
+
+
+
+ 
