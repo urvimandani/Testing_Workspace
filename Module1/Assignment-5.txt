@@ -1,0 +1,40 @@
+Q-1 What is Automation Testing ?
+    -> Test automation is the use of software to control the execution of tests, the comparison of actual outcomes to predicted outcomes, 
+          the setting up of test preconditions, and other test control and test reporting functions.
+    -> tests to verify the functionality, performance, security and usability of a website can easily be automated.
+
+Q-2 Which are the Browsers Supported by Selenium Ide ?
+     -> Selenium Remote Control (RC), Web Driver, Selenium Grid and Selenium IDE may be used with Firefox. 
+     -> Selenium ide supported by all available browsers including Internet Explorer, Mozilla Firefox, Google Chrome, Safari.
+
+Q-3 What are the benefits of Automation Testing?
+     -> 70% faster than the manual testing
+     -> Saves Time and Cost
+     -> Early time to market
+     -> Re-usable test scripts
+     -> Better speed in executing tests
+     -> Increases Efficiency
+     -> Reliable in results
+     -> Ensure Consistency 
+     -> Improves accuracy
+
+Q-4 What are the advantages of Selenium?
+     -> Selenium is an open-source automation testing tool
+     -> it is free of cost to use
+     -> Highly extensible
+     -> Supports mobile devices
+     -> Supports various operating systems
+     -> Selenium Can execute tests in parallel
+     -> Selenium Can run tests across different browsers.
+
+Q-5 Why testers should opt for Selenium and not QTP?
+     -> Selenium supports a wide range of programming languages. QTP/UFT test scripts run only on the Windows environment. They can
+           not be run across all browsers. On the other hand, Selenium is OS independent and allows test scripts to run across all browsers.
+
+
+
+
+
+
+
+
